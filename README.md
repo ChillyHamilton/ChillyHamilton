@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChillyHamilton
 - 👀 I’m interested in building gaming mods and other advanced cyber tech cool guy shtuff.
-- 🌱 I’m currently learning cyber security stuff. 
+- 🌱 I’m currently learning cyber security shtuff. 
 - 💞️ I’m looking to collaborate on Arma 3 scenarios and server tools, pentesting tools, and other cyber shtuff. 
 - 📫 How to reach me: DISCORD = ChillyHamilton
 
