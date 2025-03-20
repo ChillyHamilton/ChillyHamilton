@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChillyHamilton
-- 👀 I’m interested in building gaming tools and scenarios.
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on Arma 3 scenarios and server tools.
-- 📫 How to reach me: DISCORD = ChillyHamilton#6918
+- 👀 I’m interested in building gaming mods and other advanced cyber tech cool guy shtuff.
+- 🌱 I’m currently learning cyber security stuff. 
+- 💞️ I’m looking to collaborate on Arma 3 scenarios and server tools, pentesting tools, and other cyber shtuff. 
+- 📫 How to reach me: DISCORD = ChillyHamilton
 
 <!---
 ChillyHamilton/ChillyHamilton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
